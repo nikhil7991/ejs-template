@@ -19,4 +19,4 @@ npm run start
 
 ## License
 
-[ISC](https://opensource.org/license/isc-license-txt/)
+[MIT](https://choosealicense.com/licenses/mit/)
