@@ -1,5 +1,4 @@
 const moment = require("moment");
-const data = require("./sampleApplication.json");
 const express = require("express");
 const app = express();
 app.set("view engine", "ejs");
